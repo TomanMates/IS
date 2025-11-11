@@ -1,14 +1,14 @@
-# Informační systém pro tréninkový plán hobby běžců
+# Informační systém pro tréninkový plán běžců
 
 ## Krátký popis
-Jednoduchý webový informační systém určený pro hobby běžce, který umožňuje plánovat tréninky, sledovat pokroky a vyhodnocovat výkonnost v čase.
+Jednoduchý webový informační systém určený pro běžce, který umožňuje plánovat tréninky, sledovat pokroky a vyhodnocovat výkonnost v čase.
 
 ## Cíl systému a cílová skupina
-Cílem systému je pomoci rekreačním (hobby) běžcům efektivně plánovat tréninky a udržovat motivaci pomocí přehledného vedení statistik.  
+Cílem systému je pomoci běžcům efektivně plánovat tréninky a udržovat motivaci pomocí přehledného vedení statistik.  
 Systém umožní uživateli snadno sledovat své běžecké aktivity, vyhodnocovat splnění tréninkových cílů a přizpůsobovat plán podle aktuální kondice.
 
 **Cílová skupina:**  
-- Rekreační běžci všech úrovní, kteří si chtějí udržet přehled o svých trénincích.  
+- Běžci všech úrovní, kteří si chtějí udržet přehled o svých trénincích.  
 - Osoby, které běhají podle tréninkového plánu a chtějí sledovat svůj pokrok v čase.  
 
 ## Základní funkce
